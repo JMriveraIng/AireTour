@@ -1,0 +1,37 @@
+D:\AireTour\bin\Debug\net6.0-windows\AireTour.exe
+D:\AireTour\bin\Debug\net6.0-windows\AireTour.deps.json
+D:\AireTour\bin\Debug\net6.0-windows\AireTour.runtimeconfig.json
+D:\AireTour\bin\Debug\net6.0-windows\AireTour.dll
+D:\AireTour\bin\Debug\net6.0-windows\AireTour.pdb
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.csproj.AssemblyReference.cache
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.Form1.resources
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.csproj.GenerateResource.cache
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.AssemblyInfoInputs.cache
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.AssemblyInfo.cs
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.csproj.CoreCompileInputs.cache
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.dll
+D:\AireTour\obj\Debug\net6.0-windows\refint\AireTour.dll
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.pdb
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.genruntimeconfig.cache
+D:\AireTour\obj\Debug\net6.0-windows\ref\AireTour.dll
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.Form2.resources
+D:\AireTour\obj\Debug\net6.0-windows\AireTour.Resultados.resources
+D:\PROYECTOS UNAD\AireTour\bin\Debug\net6.0-windows\AireTour.exe
+D:\PROYECTOS UNAD\AireTour\bin\Debug\net6.0-windows\AireTour.deps.json
+D:\PROYECTOS UNAD\AireTour\bin\Debug\net6.0-windows\AireTour.runtimeconfig.json
+D:\PROYECTOS UNAD\AireTour\bin\Debug\net6.0-windows\AireTour.dll
+D:\PROYECTOS UNAD\AireTour\bin\Debug\net6.0-windows\AireTour.pdb
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.Form1.resources
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.Form2.resources
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.Resultados.resources
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.csproj.GenerateResource.cache
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.AssemblyInfoInputs.cache
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.AssemblyInfo.cs
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.csproj.CoreCompileInputs.cache
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.dll
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\refint\AireTour.dll
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.pdb
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\AireTour.genruntimeconfig.cache
+D:\PROYECTOS UNAD\AireTour\obj\Debug\net6.0-windows\ref\AireTour.dll
